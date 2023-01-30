@@ -4,7 +4,7 @@ An introduction to Lists and Tuples in Python.
 ## ***1. Lists []*** ##
 
 In Python, a **List** is a *collection* which is **ordered and mutable**, which also **allows duplicate members**.
-It is a collection of data which supports in data management. 
+It is a collection of data which supports data management. 
 
 #### How do we create a list in Python? ####
 
