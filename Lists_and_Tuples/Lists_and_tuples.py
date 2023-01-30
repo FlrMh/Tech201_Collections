@@ -13,6 +13,7 @@ shopping_list = ["milk", "eggs", "bread", "fruits", "cheese"]
 # print(shopping_list[0]) # milk(the first data added to the list)
 # print(shopping_list[3]) # fruits
 # print(shopping_list[-1]) # cheese
+# print(shopping_list[0:3])
 
 
 # We can change a specific part of our list by re-writing a value in the list
