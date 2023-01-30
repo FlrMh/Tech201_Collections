@@ -30,6 +30,10 @@
 #
 # student_1["completed_lesson_names"].remove("data_types")
 # print(student_1["completed_lesson_names"])
+
+# Adding a new key: value pair to your dictionary:
+# student_1["birthdate"] = "1997/12/23"
+# print(student_1)
 #
 #
 # # Dictionary methods
