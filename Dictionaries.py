@@ -45,13 +45,17 @@
 #
 # print(student_1.items()) # Outputs array of tuples with key and value pairs in dictionary
 #
-Employee_1 = {
-    "name": "Christine Johnson",
-    "age": "32",
-    "length_of_employment(years)": 2.5,
-    "hourly_rate(£)": 13.50,
-    "department(s)": ["FOH", "BOH"],
-    "student": True
-}
+# Practice:
+# Employee_1 = {
+#     "name": "Christine Johnson",
+#     "age": "32",
+#     "length_of_employment(years)": 2.5,
+#     "hourly_rate(£)": 13.50,
+#     "department(s)": ["FOH", "BOH"],
+#     "student": True
+# }
+#
+# print(Employee_1)
 
-print(Employee_1)
+#
+
