@@ -63,3 +63,10 @@ print(student_1.values()) # this will print all the values for all the keys in t
 ```bash 
 print(student_1.items()) # Outputs an array of tuples with key and value pairs in dictionary
 ```
+
+#### Dictionaries use cases:
+
+1. You want to ***store objects and data using names***, not just positions or index numbers. If you want to store elements so that you can retrieve them by their index number, use a list.
+2. You need to ***find data and objects quickly by name***. Dictionaries are optimized so that lookups for keys are almost always in constant time, regardless of the dictionary size. 
+3. The ***order of elements isn't as important as their presence***. Again, if the ordering of the elements matters more than whether or not a given element exists in the collection, use a list.
+
